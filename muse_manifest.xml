@@ -1,0 +1,170 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.zoella.com" resolutions="1x" timestamp="1493668817606">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3905451378" ref="index:hair:beauty:archive:blogpost"/>
+    <file name="nomq_preview_master_a-master.css" crc="4046474259" ref="index:hair:beauty:archive:blogpost"/>
+    <file name="index.css" crc="497770563" ref="index"/>
+    <file name="nomq_index.css" crc="265496124" ref="index"/>
+    <file name="hair.css" crc="206318008" ref="hair"/>
+    <file name="nomq_hair.css" crc="375543247" ref="hair"/>
+    <file name="beauty.css" crc="4181513500" ref="beauty"/>
+    <file name="nomq_beauty.css" crc="4363856" ref="beauty"/>
+    <file name="archive.css" crc="4180311472" ref="archive"/>
+    <file name="nomq_archive.css" crc="209991930" ref="archive"/>
+    <file name="blogpost.css" crc="4028483365" ref="blogpost"/>
+    <file name="nomq_blogpost.css" crc="192162644" ref="blogpost"/>
+  </folder>
+  <folder name="assets">
+    <file name="323b7976-1600x1067.jpg" crc="417241155" seo="true" mt="1492643133000"/>
+    <file name="v-day-flatlay-21-of-21-1600x1080.jpg" crc="232782224" seo="true" mt="1492648362000"/>
+    <file name="v-day-pjs-32-of-76-1600x1221.jpg" crc="4271389934" seo="true" mt="1492811924000"/>
+    <file name="323b1980-2-635x420.jpg" crc="4211621350" seo="true" mt="1492812485000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="museutils.js" crc="4232573551" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="whatinput.js" crc="86476730" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="require.js" crc="4234670167" ref="index:beauty:hair:blogpost:archive"/>
+  </folder>
+  <folder name="images">
+    <file name="social media icons.png" crc="4162062940" ref="index:archive">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="archive" alt=""/>
+    </file>
+    <file name="social media icons copy3.png" crc="444808025" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5347-4.png" crc="4097736093" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u5359-4.png" crc="174992372" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u5353-4.png" crc="3846733923" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u5365-4.png" crc="4267874240" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2930-4.png" crc="4247072287" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2937-4.png" crc="4268204118" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2940-4.png" crc="438643264" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2943-4.png" crc="11227758" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2946-4.png" crc="3907408646" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2949-4.png" crc="71411881" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="zoella.png" crc="382342339" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sugg-zoe-image.jpg" crc="3965778915" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background for navbar copy 12.png" crc="515260937" ref="index:beauty:hair:blogpost:archive">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1st blog image.png" crc="3859262298" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v-day-flatlay-21-of-21-1600x1080.jpg" crc="135381505" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="v-day-pjs-32-of-76-1600x1221.jpg" crc="4092461485" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="323b1980-2-635x420.jpg" crc="4211621350" ref="index:archive">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="323b9550-1600x900.jpg" crc="4226585380" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apple-crumble-cupcakes-13-of-13-635x420.jpg" crc="14855425" ref="index:archive">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobile navbar icon.png" crc="94664245" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1st blog image-u3335-fr.png" crc="292463401" ref="index"/>
+    <file name="u4728-4.png" crc="16052684" ref="index"/>
+    <file name="v-day-flatlay-21-of-21-1600x1080-u3339-fr.jpg" crc="4051476412" ref="index"/>
+    <file name="u4732-4.png" crc="4193199020" ref="index"/>
+    <file name="v-day-pjs-32-of-76-1600x1221-u3343-fr.jpg" crc="39544097" ref="index"/>
+    <file name="u5268-4.png" crc="496242551" ref="index"/>
+    <file name="u4738-4.png" crc="3829715293" ref="index"/>
+    <file name="u4744-4.png" crc="314508820" ref="index"/>
+    <file name="u4750-4.png" crc="371870116" ref="index"/>
+    <file name="u4756-4.png" crc="325983983" ref="index"/>
+    <file name="u2704-4.png" crc="4162170078" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2707-4.png" crc="234304063" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2716-4.png" crc="261257630" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u2722-4.png" crc="356582345" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="blank.gif" crc="4208392903" ref="index:beauty:hair:blogpost:archive"/>
+    <file name="u3630-4.png" crc="109062413" ref="beauty"/>
+    <file name="u3633-4.png" crc="29510837" ref="beauty"/>
+    <file name="u3636-4.png" crc="4284090921" ref="beauty"/>
+    <file name="u3639-4.png" crc="4206776902" ref="beauty"/>
+    <file name="u3642-4.png" crc="4200086206" ref="beauty"/>
+    <file name="u3645-4.png" crc="337805379" ref="beauty"/>
+    <file name="background of blog pic copy.png" crc="3980860272" ref="beauty">
+      <caption webpage="beauty" alt=""/>
+    </file>
+    <file name="layer 1 copy 2.png" crc="31643487" ref="beauty">
+      <caption webpage="beauty" alt=""/>
+    </file>
+    <file name="hairstyles2-635x360.jpg" crc="101129399" ref="beauty:hair">
+      <caption webpage="beauty" alt=""/>
+    </file>
+    <file name="u3630-42.png" crc="4185436957" ref="beauty"/>
+    <file name="u3633-42.png" crc="394478190" ref="beauty"/>
+    <file name="u3636-42.png" crc="437889338" ref="beauty"/>
+    <file name="u3639-42.png" crc="334621739" ref="beauty"/>
+    <file name="u3642-42.png" crc="4041349449" ref="beauty"/>
+    <file name="u3645-42.png" crc="3855235555" ref="beauty"/>
+    <file name="layer 1 copy 2-u3610-fr.png" crc="4066399280" ref="beauty"/>
+    <file name="layer 1 copy 2-u5316-fr.png" crc="4144671897" ref="beauty"/>
+    <file name="img_1744jpg-635x420.jpg" crc="4136753440" ref="hair">
+      <caption webpage="hair" alt=""/>
+    </file>
+    <file name="u5274-4.png" crc="123361557" ref="hair"/>
+    <file name="u5292-4.png" crc="280246960" ref="hair"/>
+    <file name="layer 631.png" crc="4143352648" ref="hair">
+      <caption webpage="hair" alt=""/>
+    </file>
+    <file name="u5280-4.png" crc="4266995981" ref="hair"/>
+    <file name="bun-635x396.jpg" crc="11785107" ref="hair">
+      <caption webpage="hair" alt=""/>
+    </file>
+    <file name="u5298-4.png" crc="396274467" ref="hair"/>
+    <file name="hair3-635x391.jpg" crc="172121418" ref="hair">
+      <caption webpage="hair" alt=""/>
+    </file>
+    <file name="u5286-4.png" crc="4167384772" ref="hair"/>
+    <file name="hair-finaldvdvsvsd-635x396.jpg" crc="4263390970" ref="hair">
+      <caption webpage="hair" alt=""/>
+    </file>
+    <file name="u5304-4.png" crc="4001846249" ref="hair"/>
+    <file name="u3878-4.png" crc="254231638" ref="hair"/>
+    <file name="u3930-4.png" crc="4220682338" ref="hair"/>
+    <file name="u3936-4.png" crc="274519899" ref="hair"/>
+    <file name="u3942-4.png" crc="378806653" ref="hair"/>
+    <file name="u3948-4.png" crc="3925553044" ref="hair"/>
+    <file name="u3954-4.png" crc="528012570" ref="hair"/>
+    <file name="u3975-4.png" crc="419957855" ref="blogpost"/>
+    <file name="u3969-5.png" crc="183675425" ref="blogpost"/>
+    <file name="u3975-42.png" crc="94627956" ref="blogpost"/>
+    <file name="u3969-52.png" crc="3897620930" ref="blogpost"/>
+    <file name="1st blog image-u4427-fr.png" crc="4083630941" ref="archive"/>
+    <file name="v-day-flatlay-21-of-21-1600x1080-u4429-fr.jpg" crc="128960281" ref="archive"/>
+    <file name="v-day-pjs-32-of-76-1600x1221-u4420-fr.jpg" crc="175914056" ref="archive"/>
+    <file name="323b9550-1600x900-u4428-fr.jpg" crc="380553063" ref="archive"/>
+    <file name="1st blog image-u4427-fr2.png" crc="125338442" ref="archive"/>
+    <file name="v-day-flatlay-21-of-21-1600x1080-u4429-fr2.jpg" crc="4291203638" ref="archive"/>
+    <file name="v-day-pjs-32-of-76-1600x1221-u4420-fr2.jpg" crc="165586024" ref="archive"/>
+    <file name="323b9550-1600x900-u4428-fr2.jpg" crc="3982538666" ref="archive"/>
+  </folder>
+  <file name="index.html" crc="214137184" seo="true" mt="1493662695912" redirect="true"/>
+  <file name="beauty.html" crc="532445692" seo="true" mt="1493662695912" redirect="true"/>
+  <file name="hair.html" crc="3781332381" seo="true" mt="1493662695912" redirect="true"/>
+  <file name="blogpost.html" crc="4142269170" seo="true" mt="1493662695912" redirect="true"/>
+  <file name="archive.html" crc="3824851022" seo="true" mt="1493662695912" redirect="true"/>
+</manifest>
